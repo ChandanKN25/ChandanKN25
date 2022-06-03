@@ -9,3 +9,4 @@ ChandanKN25/ChandanKN25 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=ChandanKN25&count_private=true">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanKN25&layout=compact">
