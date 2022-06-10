@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ChandanKN25
 - 👀 I’m currently working as Full Stack Developer
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Angular and ReactJs
+- 💬 Ask me about Dotnet,SQL, Angular..etc
+- 😄 Pronouns: He/His
+ 
 
 <!---
 ChandanKN25/ChandanKN25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
